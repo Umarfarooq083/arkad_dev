@@ -1,0 +1,2 @@
+(this.webpackJsonphister=this.webpackJsonphister||[]).push([[19],{962:function(e,t,s){"use strict";s.r(t);s(1);var i=s(784),n=s(2);t.default=function(){return Object(n.jsx)(n.Fragment,{children:Object(n.jsx)(i.a,{children:Object(n.jsx)("div",{style:{fontSize:"22px",padding:"40px"},children:"This is the Dashboard of Arkad"})})})}}}]);
+//# sourceMappingURL=19.ae4de291.chunk.js.map

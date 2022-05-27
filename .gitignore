@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/.idea/
+/vendor/
+
+vendor/composer/autoload_static.php
+vendor/composer/autoload_classmap.php

@@ -1,0 +1,2 @@
+(this.webpackJsonphister=this.webpackJsonphister||[]).push([[16],{964:function(t,e,n){"use strict";n.r(e);n(1);var c=n(717),r=n(18),s=n(2);e.default=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)(c.a,{component:"h2",sx:{fontSize:16,color:"text.primary",fontWeight:r.a.SEMI_BOLD,mb:{xs:2,lg:4}},children:"My Account"})})}}}]);
+//# sourceMappingURL=16.9b5f3609.chunk.js.map
